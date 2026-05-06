@@ -6,6 +6,7 @@ This repository is a collection of STEM related books to build a solid foundatio
 - [DevOps](/DevOps/)
 - [Mainframe](/Mainframe/)
 - [Machine Learning](/Machine%20Learning/)
+- [Software Development Standards](/Software%20Development/)
 - [Modern Software Engineering Standards & Methodologies](/Modern%20Software%20Engineering%20Standards%20and%20Methodologies/)
 - [Operating System](/OS/)
 - [Uncategorised](/Uncategorised/)
