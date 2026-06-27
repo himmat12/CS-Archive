@@ -1,4 +1,4 @@
-## CS Grimories: Archives of books for aspiring Software Engineers and Computer Scientists
+## CS Archive: Archives of books for aspiring Software Engineers and Computer Scientists
 This repository is a collection of STEM related books to build a solid foundation especially in Computer Science, Mathematics and Software Engineering. A learning resources for aspiring Computer Scientists and Software Engineers.
 
 #### Table of contents
