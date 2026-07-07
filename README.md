@@ -4,6 +4,7 @@ This repository is a collection of STEM related books to build a solid foundatio
 #### Table of contents
 - [Applied Mathematics](/Applied%20Mathematics/)
 - [DevOps](/DevOps/)
+- [Data Structures & Algorithms](/DSA/)
 - [HPC Systems Engineering](./HPC%20Systems%20Engineering/)
 - [Mainframe](/Mainframe/)
 - [Machine Learning](/Machine%20Learning/)
