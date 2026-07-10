@@ -5,4 +5,4 @@
 #### [Python Big-O: Time & Space Complexity](https://pythoncomplexity.com/)
 #### [VisualAlgo.net - Tool to visualise Algorithms in action](https://visualgo.net/en/)
 #### [Notes of data structures and C++ concepts - University of Illinois](https://courses.grainger.illinois.edu/cs225/sp2021/resources/)
-#### [Memory Layout and Allocation - Stack and Heap](Memory%20Layout%20&%20Allocation%20-%20Stack%20vs%20Heap.pdf)
+#### [Memory Layout & Allocation - Stack vs Heap](Memory%20Layout%20&%20Allocation%20-%20Stack%20vs%20Heap.pdf)
