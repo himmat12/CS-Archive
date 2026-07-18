@@ -10,6 +10,6 @@ This repository is a collection of STEM related books to build a solid foundatio
 - [Machine Learning](/Machine%20Learning/)
 - [Modern Software Engineering Standards & Methodologies](/Modern%20Software%20Engineering%20Standards%20and%20Methodologies/)
 - [Software Development Standards](/Software%20Development/)
-- [Operating System](/OS/)
+- [Operating System & Networks](/OS%20&%20Networks/)
 - [Arcihve](Archive/)
 - [Uncategorised](/Uncategorised/)
