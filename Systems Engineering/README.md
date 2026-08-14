@@ -1,4 +1,4 @@
-# Distributed HPC Systems Engineering 
+# Systems Engineering 
 
 This reading and topic list bypasses traditional web engineering and focuses entirely on the three layers of HPC: **Compute (The Processor), Interconnect (The Network), and Programming Models (The Parallelism).**
 
